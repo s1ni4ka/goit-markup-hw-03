@@ -3,6 +3,7 @@ body {
     color: #434455;
     background-color:  #fff;
 }
+img {display: block;}
 
 ul, ol {list-style-type: none;
 margin: 0;
@@ -187,7 +188,7 @@ text-transform: capitalize;
 margin-bottom: 72px;
 }
 
-.visually-hidden {
+visually-hidden {
     position: fixed;
     transform: scale(0);
 }
